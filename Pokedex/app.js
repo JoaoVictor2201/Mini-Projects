@@ -18,3 +18,4 @@ const getTypeColor = type => {
     fighting: '#E6E0D4'
   }[type] || normal
 }
+
